@@ -1,0 +1,143 @@
+# Custom Model Data Mappings
+# 1.0.0
+
+# Armor Sets
+armor_set:
+- material: 
+  texture:
+  - id: 
+    set: 
+- material: chainmail
+  texture:
+  - id: -1
+    set: scuba
+- material: diamond
+  texture:
+  - id: -1
+    set: atlantean
+- material: iron
+  texture:
+  - id: -1
+    set: steel
+- material: netherite
+  - id: -1
+    set: brimstone
+
+# Items
+item:
+- material: 
+  texture:
+  - id: 
+    name: 
+- material: chain
+  texture:
+  - id: 1
+    name: handcuffs
+- material: chainmail_boots
+  texture:
+  - id: -1
+    name: flippers
+- material: chainmail_chestplate
+  texture:
+  - id: -1
+    name: oxygen_tank
+- material: chainmail_helmet
+  texture:
+  - id: -1
+    name: scuba_mask
+- material: copper_ingot
+  texture:
+  - id: 1
+    name: magnet
+  - id: 2
+    name: strong_magnet
+- material: diamond
+  texture:
+  - id: 1
+    name: prismatic_diamond
+- material: diamond_boots
+  texture:
+  - id: -1
+    name: atlantean_boots
+- material: diamond_chestplate
+  texture:
+  - id: -1
+    name: atlantean_chestplate
+- material: diamond_helmet
+  texture:
+  - id: -1
+    name: atlantean_helmet
+- material: diamond_leggings
+  texture:
+  - id: -1
+    name: atlantean_leggings
+- material: golden_helmet
+  texture:
+  - id: 1
+    name: mining_helmet
+- material: fishing_rod
+  texture:
+  - id: 1
+    name: atlantean_fishing_rod
+- material: iron_boots
+  texture:
+  - id: -1
+    name: steel_boots
+- material: iron_chestplate
+  texture:
+  - id: -1 
+    name: steel_chestplate
+- material: iron_helmet
+  texture:
+  - id: -1 
+    name: steel_helmet
+- material: iron_ingot
+  texture:
+  - id: 1
+    name: steel_ingot
+- material: iron_leggings
+  texture:
+  - id: -1
+    name: steel_leggings
+- material: iron_nugget
+  texture:
+  - id: 1
+    name: chainmail_ring
+- material: iron_sword
+  texture:
+  - id: 1
+    name: steel_sword
+- material: leather_boots
+  texture:
+  - id: 1
+    name: bunny_boots
+  - id: 2
+    name: highlander_boots
+- material: netherite_boots
+  texture:
+  - id: -1
+    name: brimstone_boots
+- material: netherite_chestplate
+  texture:
+  - id: -1
+    name: brimstone_chestplate
+- material: netherite_helmet
+  texture:
+  - id: -1
+    name: brimstone_hemet
+- material: netherite_leggings
+  texture:
+  - id: -1
+    name: brimstone_leggings
+- material: netherite_pickaxe
+  texture:
+  - id: 1
+    name: brimstone_pickaxe
+- material: raw_iron
+  texture:
+  - id: 1
+    name: raw_steel
+- material: rotten_flesh
+  texture:
+  - id: 1
+    name: raw_leather
