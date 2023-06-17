@@ -70,6 +70,7 @@ See the [Wiki](https://github.com/Bam6561/AethelResourcePack/wiki/Home) for docu
 * [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
 
 ⚙️ **Related Repositories** 
+* [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
 * [Aethel Resources](https://github.com/Bam6561/AethelResources)
 
 <p align="right"><a href="#top">Back to Top</a></p>
