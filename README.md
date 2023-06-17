@@ -16,52 +16,27 @@
   <ol>
     <li><a href="#about-the-project"> About The Project </a></li>
     <li><a href="#setup"> Setup </a></li>
-      <ul>
-        <li><a href="#singleplayer"> Singleplayer </a></li>
-        <li><a href="#multiplayer"> Multiplayer </a></li>
-      </ul>
-    <li><a href="#usage"> Usage </a></li>
     <li><a href="#about-us"> About Us </a></li>
     <li><a href="#license"> License </a></li>
-    <li><a href="#contact"> Contact <a/></li>
-    <li><a href="#acknowledgements"> Acknowledgements </li>
+    <li><a href="#contact"> Contact </a></li>
+    <li><a href="#acknowledgements"> Acknowledgements </a></li>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Minecraft data pack written for Aethel SMP.
+Minecraft resource pack created for Aethel SMP.
 
-See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
+See the [Wiki](https://github.com/Bam6561/AethelResourcePack/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- SETUP -->
 ## Setup
 
-### Singleplayer
 1. Clone the repo.
 2. Type `%appdata%` into your file explorer to navigate to the `.minecraft` folder.
-3. Choose the world you want to use the data pack on inside your `saves` folder. 
-4. Insert `AethelDataPack` into the world's `datapacks` folder.
-5. Launch Minecraft and enter the world the data pack was added to.
-
-<p align="right"><a href="#top">Back to Top</a></p>
-
-### Multiplayer
-1. Clone the repo.
-2. Navigate to the server's folder.
-3. Go to the primary world folder. This folder is named `world` and contains the server's overworld data by default.
-4. Follow singleplayer setup from step 4.
-
-<p align="right"><a href="#top">Back to Top</a></p>
-
-<!-- USAGE -->
-## Usage
-**Functions** `/function namespace:file_path/command`
-
-**Predicates** `@<target_selector>[predicate=namespace:filepath/predicate]`
-
-**Tags** `@<target_selector>[type=#namespace:entity_type]`
+3. Insert `AethelResourcePack` into the `resourcepacks` folder.
+4. Launch Minecraft and apply the resource pack from the in-game menu's `Resource Packs` option. 
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -109,7 +84,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com
 
-Project Link: https://github.com/Bam6561/AethelDataPack
+Project Link: https://github.com/Bam6561/AethelResourcePack
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -121,7 +96,7 @@ Project Link: https://github.com/Bam6561/AethelDataPack
 <p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- SHIELDS -->
-[stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelDataPack
-[stars-url]: https://github.com/Bam6561/AethelDataPack/stargazers
-[license-shield]: https://img.shields.io/github/license/Bam6561/AethelDataPack
-[license-url]: https://github.com/Bam6561/AethelDataPack/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelResourcePack
+[stars-url]: https://github.com/Bam6561/AethelResourcePack/stargazers
+[license-shield]: https://img.shields.io/github/license/Bam6561/AethelResourcePack
+[license-url]: https://github.com/Bam6561/AethelResourcePack/blob/main/LICENSE
