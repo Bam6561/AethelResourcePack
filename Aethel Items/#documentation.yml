@@ -1,5 +1,5 @@
 # Custom Model Data Mappings
-# 1.0.0
+# B2
 
 # Armor Sets
 armor_set:
@@ -19,9 +19,13 @@ armor_set:
   texture:
   - id: -1
     set: steel
+  - id: -2
+    set: celesteel
 - material: netherite
   - id: -1
     set: brimstone
+  - id: -2
+    set: obsidian
 
 # Items
 item:
@@ -29,6 +33,12 @@ item:
   texture:
   - id: 
     name: 
+- material: bow
+  texture:
+  - id: 1
+    name: steel_bow
+  - id: 2
+    name: celesteel_bow
 - material: chain
   texture:
   - id: 1
@@ -79,26 +89,40 @@ item:
   texture:
   - id: 1
     name: atlantean_fishing_rod
+- material: iron_axe
+  texture:
+  - id: 1
+    name: celesteel_axe 
 - material: iron_boots
   texture:
   - id: -1
     name: steel_boots
+  - id: -2
+    name: celesteel_boots
 - material: iron_chestplate
   texture:
   - id: -1 
     name: steel_chestplate
+  - id: -2
+    name: celesteel_chestplate
 - material: iron_helmet
   texture:
   - id: -1 
     name: steel_helmet
+  - id: -2
+    name: celesteel_helmet
 - material: iron_ingot
   texture:
   - id: 1
     name: steel_ingot
+  - id: -2
+    name: celesteel_ingot
 - material: iron_leggings
   texture:
   - id: -1
     name: steel_leggings
+  - id: -2 
+    name: celesteel_leggings
 - material: iron_nugget
   texture:
   - id: 1
@@ -117,22 +141,42 @@ item:
   texture:
   - id: -1
     name: brimstone_boots
+  - id: -2
+    name: obsidian_boots
 - material: netherite_chestplate
   texture:
   - id: -1
     name: brimstone_chestplate
+  - id: -2
+    name: obsidian_chestplate
 - material: netherite_helmet
   texture:
   - id: -1
-    name: brimstone_hemet
+    name: brimstone_helmet
+  - id: -2
+    name: obsidian_helmet
+- material: netherite_ingot 
+  texture:
+  - id: 1
+    name: brimstone_ingot 
 - material: netherite_leggings
   texture:
   - id: -1
     name: brimstone_leggings
+  - id: -2
+    name: obsidian_leggings
 - material: netherite_pickaxe
   texture:
   - id: 1
     name: brimstone_pickaxe
+- material: netherite_shovel
+  texture:
+  - id: 1
+    name: brimstone_maul
+- material: rabbit_foot 
+  texture:
+  - id: 1
+    name: gruperts_paw 
 - material: raw_iron
   texture:
   - id: 1
@@ -141,3 +185,11 @@ item:
   texture:
   - id: 1
     name: raw_leather
+- material: tadpole_bucket 
+  texture:
+  - id: 1
+    name: incubated_tadpole_bucket
+- material: turtle_egg 
+  texture:
+  - id: 1
+    name: incubated_turtle_egg 
