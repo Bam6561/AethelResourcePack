@@ -8,12 +8,13 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/magnet"
-    },{
+      "model": "aethel:item/device/magnet"
+    },
+    {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "minecraft:item/strong_magnet"
+      "model": "aethel:item/device/strong_magnet"
     }
   ]
 }

@@ -6,9 +6,15 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 1
+        "custom_model_data": 1000
       },
-      "model": "minecraft:item/houndmaster_leggings"
+      "model": "aethel:item/armor/diver/legs"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "aethel:item/armor/houndmaster/legs"
     }
   ]
 }

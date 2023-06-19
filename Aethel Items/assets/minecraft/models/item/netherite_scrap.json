@@ -8,7 +8,7 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/netherite_repair_kit"
+      "model": "aethel:item/component/misc/netherite_repair_kit"
     }
   ]
 }

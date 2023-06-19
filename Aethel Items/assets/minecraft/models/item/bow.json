@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/bow"
+        "layer0": "minecraft:item/bow"
     },
     "display": {
         "thirdperson_righthand": {
@@ -78,34 +78,34 @@
             "predicate": {
                 "pulling": 1
             },
-            "model": "item/bow_pulling_0"
+            "model": "minecraft:item/bow_pulling_0"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "item/bow_pulling_1"
+            "model": "minecraft:item/bow_pulling_1"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/bow_pulling_2"
+            "model": "minecraft:item/bow_pulling_2"
         },
         {
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "item/steel_bow"
+            "model": "aethel:item/weapon/ranged/steel_bow"
         },
         {
             "predicate": {
                 "custom_model_data": 1,
                 "pulling": 1
             },
-            "model": "item/steel_bow_pulling_0"
+            "model": "aethel:item/weapon/ranged/steel_bow_pulling_0"
         },
         {
             "predicate": {
@@ -113,7 +113,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "item/steel_bow_pulling_1"
+            "model": "aethel:item/weapon/ranged/steel_bow_pulling_1"
         },
         {
             "predicate": {
@@ -121,20 +121,20 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/steel_bow_pulling_2"
+            "model": "aethel:item/weapon/ranged/steel_bow_pulling_2"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/celesteel_bow"
+            "model": "aethel:item/weapon/ranged/celesteel_bow"
         },
         {
             "predicate": {
                 "custom_model_data": 2,
                 "pulling": 1
             },
-            "model": "item/celesteel_bow_pulling_0"
+            "model": "aethel:item/weapon/ranged/celesteel_bow_pulling_0"
         },
         {
             "predicate": {
@@ -142,7 +142,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "item/celesteel_bow_pulling_1"
+            "model": "aethel:item/weapon/ranged/celesteel_bow_pulling_1"
         },
         {
             "predicate": {
@@ -150,7 +150,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/celesteel_bow_pulling_2"
+            "model": "aethel:item/weapon/ranged/celesteel_bow_pulling_2"
         }
     ]
 }

@@ -8,7 +8,7 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/brimstone_maul"
+      "model": "aethel:item/weapon/melee/brimstone_maul"
     }
   ]
 }

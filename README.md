@@ -35,7 +35,7 @@ See the [Wiki](https://github.com/Bam6561/AethelResourcePack/wiki/Home) for docu
 
 1. Clone the repo.
 2. Type `%appdata%` into your file explorer to navigate to the `.minecraft` folder.
-3. Insert `Aethel Items` into the `resourcepacks` folder.
+3. Insert `Aethel <Module>` into the `resourcepacks` folder.
 4. Launch Minecraft and apply the resource packs from the in-game menu's `Resource Packs` option. 
 
 <p align="right"><a href="#top">Back to Top</a></p>

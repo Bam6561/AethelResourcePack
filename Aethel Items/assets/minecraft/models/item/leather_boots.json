@@ -8,12 +8,13 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/bunny_boots"
-    },{
+      "model": "aethel:item/armor/misc/bunny_boots"
+    },
+    {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "minecraft:item/highlander_boots"
+      "model": "aethel:item/armor/misc/highlander_boots"
     }
   ]
 }

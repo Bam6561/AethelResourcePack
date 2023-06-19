@@ -8,13 +8,13 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/chainmail_ring"
+      "model": "aethel:item/component/misc/chainmail_ring"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "minecraft:item/chainmail_wolf_armor"
+      "model": "aethel:item/companion/upgrade/chainmail_wolf_armor"
     }
   ]
 }

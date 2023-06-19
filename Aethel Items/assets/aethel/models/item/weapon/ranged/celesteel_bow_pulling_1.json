@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "aethel:item/weapon/ranged/celesteel_bow_pulling_1"
+    }
+}

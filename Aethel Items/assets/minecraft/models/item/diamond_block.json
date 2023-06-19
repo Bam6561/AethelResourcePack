@@ -5,7 +5,7 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "block/prismatic_diamond_block"
+      "model": "aethel:block/prismatic_diamond_block"
     }
   ]
 }

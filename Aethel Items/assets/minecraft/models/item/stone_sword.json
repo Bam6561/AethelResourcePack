@@ -8,7 +8,7 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/void_stalker"
+      "model": "aethel:item/weapon/melee/voidstalker"
     }
   ]
 }

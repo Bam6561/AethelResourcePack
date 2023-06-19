@@ -6,9 +6,9 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": -1
+        "custom_model_data": 1000
       },
-      "model": "minecraft:item/atlantean_helmet"
+      "model": "aethel:item/armor/atlantean/head"
     }
   ]
 }

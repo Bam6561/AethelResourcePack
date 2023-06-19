@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aethel:item/device/incubated_turtle_egg"
+  }
+}

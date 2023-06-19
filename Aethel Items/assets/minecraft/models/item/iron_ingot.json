@@ -8,25 +8,25 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/steel_ingot"
+      "model": "aethel:item/component/ingot/steel"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "minecraft:item/celesteel_ingot"
+      "model": "aethel:item/component/ingot/celesteel"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "minecraft:item/steel_construct"
+      "model": "aethel:item/companion/summon/steel_construct"
     },
     {
       "predicate": {
         "custom_model_data": 4
       },
-      "model": "minecraft:item/iron_wolf_armor"
+      "model": "aethel:item/companion/upgrade/iron_wolf_armor"
     }
   ]
 }

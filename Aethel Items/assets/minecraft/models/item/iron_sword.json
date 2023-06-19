@@ -8,7 +8,13 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/steel_sword"
+      "model": "aethel:item/weapon/melee/steel_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "aethel:item/weapon/melee/starlight"
     }
   ]
 }

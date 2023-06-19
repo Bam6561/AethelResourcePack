@@ -130,46 +130,46 @@
             "predicate": {
                 "blocking": 1
             },
-            "model": "item/shield_blocking"
+            "model": "minecraft:item/shield_blocking"
         },
         {
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "item/iron_shield"
+            "model": "aethel:item/weapon/shield/iron"
         },
         {
             "predicate": {
                 "blocking": 1,
                 "custom_model_data": 1
             },
-            "model": "item/shield_blocking"
+            "model": "minecraft:item/shield_blocking"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/steel_shield"
+            "model": "aethel:item/weapon/shield/steel"
         },
         {
             "predicate": {
                 "blocking": 1,
                 "custom_model_data": 2
             },
-            "model": "item/shield_blocking"
+            "model": "minecraft:item/shield_blocking"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "item/obsidian_shield"
+            "model": "aethel:item/weapon/shield/obsidian"
         },
         {
             "predicate": {
                 "blocking": 1,
                 "custom_model_data": 3
             },
-            "model": "item/shield_blocking"
+            "model": "minecraft:item/shield_blocking"
         }
     ]
 }
