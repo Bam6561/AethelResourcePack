@@ -1,5 +1,5 @@
 # Custom Model Data Mappings
-# B2
+# B3
 
 # Armor Sets
 armor_set:
@@ -11,6 +11,8 @@ armor_set:
   texture:
   - id: -1
     set: scuba
+  - id: -2
+    set: houndmaster
 - material: diamond
   texture:
   - id: -1
@@ -47,14 +49,24 @@ item:
   texture:
   - id: -1
     name: flippers
+  - id: -2
+    name: houndmaster_boots
 - material: chainmail_chestplate
   texture:
   - id: -1
     name: oxygen_tank
+  - id: -2
+    name: houndmaster_chestplate
 - material: chainmail_helmet
   texture:
   - id: -1
     name: scuba_mask
+  - id: -2
+    name: houndmaster_helmet
+- material: chainmail_leggings
+  texture:
+  - id: -2
+    name: houndmaster_leggings
 - material: copper_ingot
   texture:
   - id: 1
@@ -65,6 +77,10 @@ item:
   texture:
   - id: 1
     name: prismatic_diamond
+- material: diamond_block
+  texture:
+  - id: 1
+    name: prismatic_diamond_block
 - material: diamond_boots
   texture:
   - id: -1
@@ -93,6 +109,10 @@ item:
   texture:
   - id: 1
     name: celesteel_axe 
+- material: iron_block
+  texture:
+  - id: 1
+    name: steel_block
 - material: iron_boots
   texture:
   - id: -1
@@ -115,8 +135,12 @@ item:
   texture:
   - id: 1
     name: steel_ingot
-  - id: -2
+  - id: 2
     name: celesteel_ingot
+  - id: 3
+    name: steel_construct
+  - id: 4
+    name: iron_wolf_armor
 - material: iron_leggings
   texture:
   - id: -1
@@ -127,10 +151,18 @@ item:
   texture:
   - id: 1
     name: chainmail_ring
+  - id: 2
+    name: chainmail_wolf_armor
+- material: iron_shovel
+  texture:
+  - id: 1
+    name: morningstar
 - material: iron_sword
   texture:
   - id: 1
     name: steel_sword
+  - id: 2
+    name: starlight
 - material: leather_boots
   texture:
   - id: 1
@@ -189,6 +221,18 @@ item:
   texture:
   - id: 1
     name: incubated_tadpole_bucket
+- material: shield
+  texture:
+  - id: 1
+    name: iron_shield
+  - id: 2
+    name: steel_shield
+  - id: 3
+    name: obsidian_shield
+- material: stone_sword
+  texture:
+  - id: 1
+    name: voidstalker
 - material: turtle_egg 
   texture:
   - id: 1

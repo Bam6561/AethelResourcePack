@@ -6,15 +6,15 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": -2
-      },
-      "model": "minecraft:item/obsidian_boots"
-    },
-    {
-      "predicate": {
         "custom_model_data": -1
       },
       "model": "minecraft:item/brimstone_boots"
+    },
+    {
+      "predicate": {
+        "custom_model_data": -2
+      },
+      "model": "minecraft:item/obsidian_boots"
     }
   ]
 }
