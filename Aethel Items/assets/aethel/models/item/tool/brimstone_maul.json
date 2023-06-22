@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "aethel:item/component/misc/raw_leather"
+    "layer0": "aethel:item/tool/brimstone_maul"
   }
 }

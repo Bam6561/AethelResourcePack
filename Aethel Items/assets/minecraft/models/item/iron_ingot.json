@@ -8,13 +8,13 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "aethel:item/component/ingot/steel"
+      "model": "aethel:item/ingredient/ingot/steel"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "aethel:item/component/ingot/celesteel"
+      "model": "aethel:item/ingredient/ingot/celesteel"
     },
     {
       "predicate": {

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "aethel:item/weapon/melee/brimstone_maul"
+    "layer0": "aethel:item/ingredient/misc/chainmail_ring"
   }
 }

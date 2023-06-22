@@ -8,7 +8,7 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "aethel:item/device/incubated_tadpole_bucket"
+      "model": "aethel:item/companion/summon/incubated_tadpole_bucket"
     }
   ]
 }
