@@ -5,7 +5,7 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "aethel:block/steel_block"
+			"model": "aethel:block/ingredient/steel_block"
 		}
 	]
 }

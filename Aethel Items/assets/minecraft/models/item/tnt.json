@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/tnt",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "aethel:block/device/parachute_payload"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "aethel:block/device/timed_payload"
+    }
+  ]
+}

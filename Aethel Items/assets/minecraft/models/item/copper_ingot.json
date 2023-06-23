@@ -8,13 +8,13 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "aethel:item/device/magnet"
+      "model": "aethel:item/trinket/magnet"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "aethel:item/device/strong_magnet"
+      "model": "aethel:item/trinket/strong_magnet"
     }
   ]
 }

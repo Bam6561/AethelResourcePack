@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"all": "aethel:block/steel_block"
+		"all": "aethel:block/ingredient/steel_block"
 	},
 	"display": {
 		"fixed": {

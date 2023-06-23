@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "aethel:item/device/strong_magnet"
+    "layer0": "aethel:item/device/companion_node"
   }
 }

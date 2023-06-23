@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aethel:item/blank_overlay",
+    "layer1": "aethel:item/food_drink/potion/coffee"
+  }
+}

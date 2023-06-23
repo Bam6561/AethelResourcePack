@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "aethel:item/device/magnet"
+    "layer0": "aethel:item/food_drink/cuisine/lava_eel"
   }
 }
