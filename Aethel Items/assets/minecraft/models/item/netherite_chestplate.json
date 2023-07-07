@@ -6,6 +6,12 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "aethel:item/armor/misc/hellfire_cape"
+    },
+    {
+      "predicate": {
         "custom_model_data": 1000
       },
       "model": "aethel:item/armor/brimstone/chest"
