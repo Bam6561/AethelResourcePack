@@ -2,12 +2,12 @@
 
 <!-- LOGO -->
 <div align="center">
-  <h3>Aethel Resource Pack</h3>
+  <h3>Aethel S3.5 Resource Pack</h3>
   <img src="https://i.ibb.co/fpJRzHJ/aethel-resource-pack-128x128.png" alt="aethel-resource-pack-128x128">
 
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
   
-  <a href="https://github.com/Bam6561/AethelResourcePack/wiki">Wiki</a>
+  <a href="https://github.com/Bam6561/Aethel_S3.5_ResourcePack/wiki">Wiki</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -24,9 +24,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Minecraft resource pack created for Aethel SMP.
+Minecraft resource pack created for Aethel SMP S3.5.
 
-See the [Wiki](https://github.com/Bam6561/AethelResourcePack/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
+See the [Wiki](https://github.com/Bam6561/Aethel_S3.5_ResourcePack/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -70,8 +70,8 @@ See the [Wiki](https://github.com/Bam6561/AethelResourcePack/wiki/Home) for docu
 * [Staff Applications](https://forms.gle/bTF5CqPtEsrutmXD6)
 
 ⚙️ **Related Repositories** 
-* [Aethel Data Pack](https://github.com/Bam6561/AethelDataPack)
 * [Aethel Resources](https://github.com/Bam6561/AethelResources)
+* [Aethel Data Pack](https://github.com/Bam6561/Aethel_S3.5_DataPack)
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -85,7 +85,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com
 
-Project Link: https://github.com/Bam6561/AethelResourcePack
+Project Link: https://github.com/Bam6561/Aethel_S3.5_ResourcePack
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -97,7 +97,7 @@ Project Link: https://github.com/Bam6561/AethelResourcePack
 <p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- SHIELDS -->
-[stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelResourcePack
-[stars-url]: https://github.com/Bam6561/AethelResourcePack/stargazers
-[license-shield]: https://img.shields.io/github/license/Bam6561/AethelResourcePack
-[license-url]: https://github.com/Bam6561/AethelResourcePack/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/Bam6561/Aethel_S3.5_ResourcePack
+[stars-url]: https://github.com/Bam6561/Aethel_S3.5_ResourcePack/stargazers
+[license-shield]: https://img.shields.io/github/license/Bam6561/Aethel_S3.5_ResourcePack
+[license-url]: https://github.com/Bam6561/Aethel_S3.5_ResourcePack/blob/main/LICENSE
