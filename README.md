@@ -97,7 +97,7 @@ Project Link: https://github.com/Bam6561/Aethel_S3.5_ResourcePack
 <p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- SHIELDS -->
-[stars-shield]: https://img.shields.io/github/stars/Bam6561/Aethel_S3.5_ResourcePack
+[stars-shield]: https://img.shields.io/github/stars/Bam6561/aethel_S3.5_resourcepack
 [stars-url]: https://github.com/Bam6561/Aethel_S3.5_ResourcePack/stargazers
-[license-shield]: https://img.shields.io/github/license/Bam6561/Aethel_S3.5_ResourcePack
+[license-shield]: https://img.shields.io/github/license/Bam6561/aethel_S3.5_resourcepack
 [license-url]: https://github.com/Bam6561/Aethel_S3.5_ResourcePack/blob/main/LICENSE
