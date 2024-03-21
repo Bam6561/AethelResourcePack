@@ -6,8 +6,7 @@
   <img src="https://i.ibb.co/fpJRzHJ/aethel-resource-pack-128x128.png" alt="aethel-resource-pack-128x128">
 
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
-  
-  <a href="https://github.com/Bam6561/AethelResourcePackS3.5/wiki">Wiki</a>
+
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -26,8 +25,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Minecraft resource pack created for Aethel SMP S3.5.
-
-See the [Wiki](https://github.com/Bam6561/AethelResourcePackS3.5/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
