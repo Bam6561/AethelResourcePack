@@ -2,12 +2,12 @@
 
 <!-- LOGO -->
 <div align="center">
-  <h3>Aethel S3.5 Resource Pack</h3>
+  <h3>Aethel Resource Pack S3.5</h3>
   <img src="https://i.ibb.co/fpJRzHJ/aethel-resource-pack-128x128.png" alt="aethel-resource-pack-128x128">
 
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
   
-  <a href="https://github.com/Bam6561/Aethel_S3.5_ResourcePack/wiki">Wiki</a>
+  <a href="https://github.com/Bam6561/AethelResourcePackS3.5/wiki">Wiki</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -27,7 +27,7 @@
 ## About The Project
 Minecraft resource pack created for Aethel SMP S3.5.
 
-See the [Wiki](https://github.com/Bam6561/Aethel_S3.5_ResourcePack/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
+See the [Wiki](https://github.com/Bam6561/AethelResourcePackS3.5/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -72,7 +72,7 @@ See the [Wiki](https://github.com/Bam6561/Aethel_S3.5_ResourcePack/wiki/Home) fo
 
 ⚙️ **Related Repositories** 
 * [Aethel Resources](https://github.com/Bam6561/AethelResources)
-* [Aethel S3.5 Data Pack](https://github.com/Bam6561/Aethel_S3.5_DataPack)
+* [Aethel Data Pack S3.5](https://github.com/Bam6561/AethelDataPackS3.5)
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com
 
-Project Link: https://github.com/Bam6561/Aethel_S3.5_ResourcePack
+Project Link: https://github.com/Bam6561/AethelResourcePackS3.5
 
 <p align="right"><a href="#top">Back to Top</a></p>
 
@@ -98,7 +98,7 @@ Project Link: https://github.com/Bam6561/Aethel_S3.5_ResourcePack
 <p align="right"><a href="#top">Back to Top</a></p>
 
 <!-- SHIELDS -->
-[stars-shield]: https://img.shields.io/github/stars/Bam6561/aethel_S3.5_resourcepack
-[stars-url]: https://github.com/Bam6561/Aethel_S3.5_ResourcePack/stargazers
-[license-shield]: https://img.shields.io/github/license/Bam6561/aethel_S3.5_resourcepack
-[license-url]: https://github.com/Bam6561/Aethel_S3.5_ResourcePack/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/Bam6561/AethelResourcePackS3.5
+[stars-url]: https://github.com/Bam6561/AethelResourcePackS3.5/stargazers
+[license-shield]: https://img.shields.io/github/license/Bam6561/AethelResourcePackS3.5
+[license-url]: https://github.com/Bam6561/AethelResourcePackS3.5/blob/main/LICENSE
