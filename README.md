@@ -24,9 +24,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-### Inactive.
-
 Minecraft resource pack created for Aethel SMP S3.5.
 
 <p align="right"><a href="#top">Back to Top</a></p>
